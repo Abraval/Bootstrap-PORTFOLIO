@@ -1,6 +1,6 @@
 body{
 background-color: rgb(235, 221, 221, 0.2);
-background-image: url(img/bg.jpg);
+/* background-image: url(img/bg.jpg); */
 background-repeat: no-repeat;
 background-size: cover;
 font-family: 'Lato', sans-serif;
@@ -38,8 +38,6 @@ font-family: 'Lato', sans-serif;
     background-color: rgba(245, 221, 247, 0.9);
 }
 footer{
-    background-color: rgba(245, 221, 247, 0.5)
-}
-#portfolio-cont{
+    background-color: rgba(245, 221, 247, 0.5);
    
 }
