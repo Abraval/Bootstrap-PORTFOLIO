@@ -1,6 +1,45 @@
 body{
-background-color: #efeee7;
-background-image: url(img/so-white.png);
+background-color: rgb(235, 221, 221, 0.2);
+background-image: url(img/bg.jpg);
 background-repeat: no-repeat;
 background-size: cover;
+font-family: 'Lato', sans-serif;
+
+}
+.container{
+    background-color: rgba(249, 250, 253, 0.7)
+}
+.navbar{
+    background-color: rgba(245, 221, 247, 0.3)
+}
+.navbar-brand{
+    background-color: rgba(249, 250, 253, 0.6);
+    font-size: 24px;
+    font-weight: bold;
+    opacity:0.7
+}
+.navbar-brand:hover{
+    background-color: rgba(245, 221, 247, 0.9);
+}
+.img{
+    opacity: 0.85;
+}
+.card{
+    background-color: rgba(245, 221, 247, 0.3);
+    border: none;
+    opacity: 0.9;
+   
+}
+
+.btn{
+    color: gray;
+}
+.btn:hover{
+    background-color: rgba(245, 221, 247, 0.9);
+}
+footer{
+    background-color: rgba(245, 221, 247, 0.5)
+}
+#portfolio-cont{
+   
 }
